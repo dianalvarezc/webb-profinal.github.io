@@ -1,0 +1,19 @@
+/*DOCUMENTO CSS*/
+*{margin: 0;
+padding: 0;}
+
+body { font-family: 'Josefin Sans', sans-serif;}
+
+div, header, aside, nav, main , article , section, footer { box-sizing: border-box;
+display: block;}
+
+.logo {width: 160px; }
+
+.logo img {width: 100%;
+height: auto;}
+
+.navegador { background-color: rgb(135, 73, 73);}
+
+.accion { background-color: rgb(179, 193, 198);
+padding: 90px 0px;
+text-align: center;}
